@@ -1,6 +1,6 @@
 import React from "react";
 
-const admin = () => {
+const admin = () => { 
   return <div>admin</div>;
 };
 
